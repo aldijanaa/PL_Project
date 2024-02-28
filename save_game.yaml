@@ -1,0 +1,34 @@
+---
+:players:
+- :name: aldi
+  :score: 0
+  :game_id: 1d05ff1b-a411-423d-a5da-20c844d29947
+  :player_id: 9f836ebe-31aa-4c3d-a1b6-4e76fe8fcc5c
+  :pieces:
+  - :position: 22
+    :symbol:
+  - :position: 17
+    :symbol:
+  - :position: 18
+    :symbol:
+  - :position: 19
+    :symbol:
+  :color: Red
+- :name: leki
+  :score: 0
+  :game_id: 1d05ff1b-a411-423d-a5da-20c844d29947
+  :player_id: 54af0397-4464-4247-a6c0-543fe906c2dd
+  :pieces:
+  - :position: 204
+    :symbol:
+  - :position: 197
+    :symbol:
+  - :position: 198
+    :symbol:
+  - :position: 199
+    :symbol:
+  :color: Green
+:current_player: 0
+:total_no_of_turns: 2
+:last_generated_value: 4
+:no_of_sixes: 0
