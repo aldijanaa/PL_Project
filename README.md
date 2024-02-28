@@ -10,7 +10,7 @@
 #### Run the Game: Navigate to the project directory and run the main game file using Ruby
 #
 # Usage:
-#### 'ruby run_game.rb'
+#### ' ruby run_game.rb '
 #
 # Contributing:
 #### Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
